@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main>
-      <div>Todolist Apps</div>
+      <div>Todolist Apps Menu</div>
     </main>
   );
 }
